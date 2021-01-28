@@ -1,4 +1,4 @@
-# About
+# Learnings from the course
 
 1. Learning how to design and develop queries to extract data from databases using the Structured Query Language
 
